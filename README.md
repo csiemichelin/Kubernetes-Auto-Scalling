@@ -2,7 +2,7 @@
 實現Kubeadm deployment and pod and Service和Kubernetes Auto Scalling
 # 雲端K8s AutoScalling實作
 ## K8s元件
-![](https://hackmd.io/_uploads/SyFCbX7Ih.jpg)
+![](https://hackmd.io/_uploads/SyFCbX7Ih.jpg?raw=true)
 ## 環境
 1. VM :
 建議使用VMWare，使用Virtual Box有時候會有一些問題
